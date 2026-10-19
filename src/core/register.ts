@@ -11,4 +11,4 @@ export function registerComponents() {
   }
 }
 
-// registerComponents();
+registerComponents();

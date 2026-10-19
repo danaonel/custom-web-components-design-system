@@ -1,4 +1,4 @@
-import "./register-auto";
+import "./register";
 
 export default {
   title: "Components/App Counter",

@@ -1,0 +1,31 @@
+{
+  "filename": "README.md",
+  "path": "README.md",
+  "version": "1.1",
+  "files": {
+    "0181c008": {
+      "value": [
+        {
+          "programming_language": "TypeScript",
+          "fileName": "input.ts",
+          "relativeFilePath": "src/core/input.ts",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            134
+          ]
+        }
+      ]
+    }
+  },
+  "promptMessage": {
+    "ea3a5675": {
+      "value": "Update read me to include information about storybook being published at `https://danaonel.github.io/custom-web-components-design-system`"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}
