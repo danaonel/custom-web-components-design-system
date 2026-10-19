@@ -1,0 +1,17 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@4.0.1/schema.json",
+  "baseBranch": "main",
+  "access": "public",
+  "format": "auto",
+  "changelog": [
+    "@changesets/changelog-github",
+    {
+      "repo": "danaonel/custom-web-components-design-system"
+    }
+  ],
+  "commit": true,
+  "ignore": [],
+  "fixed": [],
+  "linked": [],
+  "updateInternalDependencies": "patch"
+}
