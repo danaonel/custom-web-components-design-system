@@ -1,0 +1,31 @@
+{
+  "filename": "input.ts",
+  "path": "src/core/input.ts",
+  "version": "1.1",
+  "files": {
+    "7d442f75": {
+      "value": [
+        {
+          "programming_language": "TypeScript",
+          "fileName": "input.ts",
+          "relativeFilePath": "src/core/input.ts",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            129
+          ]
+        }
+      ]
+    }
+  },
+  "promptMessage": {
+    "c2670d0f": {
+      "value": "Everything works great now in the react app, except now I get this error: `Uncaught TypeError: Cannot create property 'textContent' on string 'Custom Web Components Email'\n    at HTMLElement.update (@ps_web-components-package_react.js:41:26)\n    at HTMLElement.attributeChangedCallback (@ps_web-components-package_react.js:37:8)\n    at setValueForAttribute (react-dom_client.js:1342:10)\n    at setPropOnCustomElement (react-dom_client.js:10522:103)\n    at updateProperties (react-dom_client.js:10846:"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

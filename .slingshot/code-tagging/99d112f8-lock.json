@@ -1,0 +1,107 @@
+{
+  "package.json": {
+    "filename": "package.json",
+    "path": "package.json",
+    "version": "1.2",
+    "contextFile": null,
+    "chunks": {
+      "44eeff": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792439345,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "b804c3d2",
+          "files": "f447c624"
+        },
+        "hash": "4b64e04f",
+        "messageId": "system_5a5d5c50-cbf5-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_5a5d5c50-cbf5-11f1-bead-e7a8494373cc-Codeblock-4",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:49:05 PM\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "a6d64f": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792439733,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "cabc2dd9",
+          "files": "606714c0"
+        },
+        "hash": "bb16a41c",
+        "messageId": "system_af15f080-cbf6-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_af15f080-cbf6-11f1-bead-e7a8494373cc-Codeblock-3",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:55:33 PM\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "3a9ed7": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792439794,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "cabc2dd9",
+          "files": "606714c0"
+        },
+        "hash": "14ffcd82",
+        "messageId": "system_af15f080-cbf6-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_af15f080-cbf6-11f1-bead-e7a8494373cc-Codeblock-6",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:56:34 PM\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "faee16": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792439847,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "cabc2dd9",
+          "files": "606714c0"
+        },
+        "hash": "2875653d",
+        "messageId": "system_af15f080-cbf6-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_af15f080-cbf6-11f1-bead-e7a8494373cc-Codeblock-7",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:57:27 PM\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "54ae06": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792439999,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "5bc20687",
+          "files": "6364bace"
+        },
+        "hash": "ac50cb1d",
+        "messageId": "system_8fa5bb80-cbf7-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_8fa5bb80-cbf7-11f1-bead-e7a8494373cc-Codeblock-2",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:59:59 PM\n- **source**: chat\n- **type**: copyCode\n"
+      }
+    },
+    "lines": {},
+    "_prevLineCount": 50
+  }
+}

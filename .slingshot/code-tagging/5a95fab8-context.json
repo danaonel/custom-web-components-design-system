@@ -1,0 +1,31 @@
+{
+  "filename": "tsconfig.json",
+  "path": "tsconfig.json",
+  "version": "1.1",
+  "files": {
+    "eb0abf67": {
+      "value": [
+        {
+          "programming_language": "JSON",
+          "fileName": "package.json",
+          "relativeFilePath": "package.json",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            42
+          ]
+        }
+      ]
+    }
+  },
+  "promptMessage": {
+    "492e0ce8": {
+      "value": "I am building the package, but I don't see index.d.ts being built in dist folder. Is this normal?"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

@@ -1,0 +1,118 @@
+{
+  "filename": "package.json",
+  "path": "package.json",
+  "version": "1.1",
+  "files": {
+    "5e224d13": {
+      "value": [
+        {
+          "programming_language": "JavaScript",
+          "fileName": "index.js",
+          "relativeFilePath": "dist/index.js",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            2
+          ]
+        },
+        {
+          "programming_language": "JavaScript",
+          "fileName": "react.js",
+          "relativeFilePath": "dist/react.js",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            41
+          ]
+        },
+        {
+          "programming_language": "JavaScript",
+          "fileName": "register.js",
+          "relativeFilePath": "dist/register.js",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            5
+          ]
+        },
+        {
+          "programming_language": "JavaScript",
+          "fileName": "vite.config.js",
+          "relativeFilePath": "vite.config.js",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            36
+          ]
+        }
+      ]
+    },
+    "f447c624": {
+      "value": [
+        {
+          "programming_language": "JavaScript",
+          "fileName": "vite.config.js",
+          "relativeFilePath": "vite.config.js",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            24
+          ]
+        }
+      ]
+    },
+    "606714c0": {
+      "value": [
+        {
+          "programming_language": "JSON",
+          "fileName": "package.json",
+          "relativeFilePath": "package.json",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            44
+          ]
+        }
+      ]
+    },
+    "6364bace": {
+      "value": [
+        {
+          "programming_language": "JSON",
+          "fileName": "package.json",
+          "relativeFilePath": "package.json",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            45
+          ]
+        }
+      ]
+    }
+  },
+  "promptMessage": {
+    "4123b8d4": {
+      "value": "Analyze the code of this npm package. HTML custom web components work when imported by HTML apps. However when importing react wrapped web components in a react app, I get this error message in the console `react-CpJLspwp.js?v=81eb63ff:5 Uncaught Error: Calling `require` for \"react\" in an environment that doesn't expose the `require` function. See https://rolldown.rs/in-depth/bundling-cjs#require-external-modules for more details.\n    at react-CpJLspwp.js?v=81eb63ff:5:8` Why is this happening an"
+    },
+    "b804c3d2": {
+      "value": "noEmit is set to false. This is my tsconfig.json file `{\n  \"compilerOptions\": {\n    \"rootDir\": \"./src\",\n    \"outDir\": \"./dist\",\n    \"target\": \"ES2022\",\n    \"module\": \"ESNext\",\n    \"moduleResolution\": \"Bundler\",\n    \"lib\": [\"ES2022\", \"DOM\", \"DOM.Iterable\"],\n    \"jsx\": \"react-jsx\",\n    \"strict\": true,\n    \"declaration\": true,\n    \"declarationMap\": true,\n    \"skipLibCheck\": true,\n    \"noEmit\": false,\n    \"allowSyntheticDefaultImports\": true\n  },\n  \"include\": [\"src\"]\n}`\nThis is vite.config.js `impor"
+    },
+    "cabc2dd9": {
+      "value": "now the build generates .d.ts files, however the package gets installed from ps-web-components-package-1.0.0.tgz file generated with `npm pack`, the .d.ts files don't show up in the target app node_modules. Why is that?"
+    },
+    "5bc20687": {
+      "value": "now i see the .d.ts files in dist folder in the built package, I also see them in .tgz package file. However after I cd into the target app, delete node_modules, reinstall everything, I still can't see any .d.ts files in node_modules folder. In fact they are the same files as before. Why is that?"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

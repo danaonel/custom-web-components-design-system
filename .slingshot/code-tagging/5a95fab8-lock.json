@@ -1,0 +1,50 @@
+{
+  "tsconfig.json": {
+    "filename": "tsconfig.json",
+    "path": "tsconfig.json",
+    "version": "1.2",
+    "contextFile": null,
+    "chunks": {
+      "acb239": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792437825,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "492e0ce8",
+          "files": "eb0abf67"
+        },
+        "hash": "c3ecdde3",
+        "messageId": "system_26112ce0-cbf2-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_26112ce0-cbf2-11f1-bead-e7a8494373cc-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:23:45 PM\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "bcc2a6": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1792437963,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "492e0ce8",
+          "files": "eb0abf67"
+        },
+        "hash": "dce1945c",
+        "messageId": "system_26112ce0-cbf2-11f1-bead-e7a8494373cc",
+        "codeBlockId": "system_26112ce0-cbf2-11f1-bead-e7a8494373cc-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/19/2026, 12:26:03 PM\n- **source**: chat\n- **type**: copyCode\n"
+      }
+    },
+    "lines": {},
+    "_prevLineCount": 18
+  }
+}

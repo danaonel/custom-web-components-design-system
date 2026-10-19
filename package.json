@@ -1,0 +1,49 @@
+{
+  "name": "@danielaglint/custom-web-components",
+  "version": "1.0.0",
+  "keywords": ["web-components", "react", "library"],
+  "author": "Daniela Glint",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danaonel/custom-web-components-design-system.git"
+  },
+  "files": ["dist"],
+  "description": "Web Components library with React wrapper",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": ["**/*.css"],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./register": {
+      "import": "./dist/register.js"
+    },
+    "./react": {
+      "types": "./dist/react.d.ts",
+      "import": "./dist/react.js"
+    }
+  },
+    "scripts": {
+    "build": "npm run clean && npm run build:bundle && npm run build:types",
+    "clean": "rm -rf dist",
+    "build:types": "tsc --emitDeclarationOnly --outDir dist",
+    "build:bundle": "vite build",
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
