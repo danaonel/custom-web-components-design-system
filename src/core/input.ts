@@ -51,9 +51,9 @@ template.innerHTML = `
 `;
 
 export class AppInputElement extends HTMLElement {
-  private input: HTMLInputElement;
-  private label: HTMLLabelElement;
-  private helpElement: HTMLSpanElement;
+  private input: HTMLInputElement | null = null;
+  private label: HTMLLabelElement | null = null;
+  private helpElement: HTMLSpanElement | null = null;
 
   static get observedAttributes() {
     return [
@@ -86,7 +86,7 @@ export class AppInputElement extends HTMLElement {
     this.input.addEventListener("input", () => {
       this.dispatchEvent(
         new CustomEvent<string>("app-input", {
-          detail: this.input.value,
+          detail: this.input!.value,
           bubbles: true,
           composed: true,
         }),
@@ -121,14 +121,16 @@ export class AppInputElement extends HTMLElement {
   }
 
   get value() {
-    return this.input.value;
+    return this.input?.value ?? "";
   }
 
   set value(value: string) {
-    this.input.value = value;
+    if (this.input) {
+      this.input.value = value;
+    }
   }
 
   focus() {
-    this.input.focus();
+    this.input?.focus();
   }
 }
