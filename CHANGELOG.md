@@ -1,5 +1,11 @@
 # @danielaglint/custom-web-components
 
+## 1.1.2
+
+### Patch Changes
+
+- [#11](https://github.com/danaonel/custom-web-components-design-system/pull/11) [`410b742`](https://github.com/danaonel/custom-web-components-design-system/commit/410b7421678b6d3683d9c6b71e075a5ceba8962e) Thanks [@danaonel](https://github.com/danaonel)! - Update documentation
+
 ## 1.1.1
 
 ### Patch Changes
