@@ -44,7 +44,8 @@
     "build:bundle": "vite build",
     "typecheck": "tsc --noEmit",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "release": "npm run build && changeset publish"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",
@@ -52,22 +53,23 @@
   },
   "devDependencies": {
     "@changesets/cli": "^3.0.3",
+    "@chromatic-com/storybook": "latest",
+    "@storybook/addon-a11y": "^10.6.2",
+    "@storybook/addon-docs": "^10.6.2",
+    "@storybook/addon-vitest": "^10.6.2",
+    "@storybook/web-components-vite": "^10.6.2",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.1.2",
-    "typescript": "^7.0.2",
-    "vite": "^8.3.4",
-    "storybook": "^10.6.2",
-    "@storybook/web-components-vite": "^10.6.2",
-    "@chromatic-com/storybook": "latest",
-    "@storybook/addon-vitest": "^10.6.2",
-    "@storybook/addon-a11y": "^10.6.2",
-    "@storybook/addon-docs": "^10.6.2",
-    "lit": "latest",
-    "vitest": "latest",
     "@vitest/browser-playwright": "latest",
     "@vitest/coverage-v8": "latest",
-    "playwright": "latest"
+    "lit": "latest",
+    "playwright": "latest",
+    "publint": "^0.3.25",
+    "storybook": "^10.6.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "latest"
   },
   "engines": {
     "node": ">=20"
