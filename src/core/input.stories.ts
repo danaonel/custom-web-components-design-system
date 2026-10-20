@@ -1,4 +1,4 @@
-import "./register";
+import "./register-auto";
 
 export default {
   title: "Components/App Input",
@@ -51,7 +51,7 @@ export default {
     value: "",
   },
 
-  render: (args) => {
+  render: (args: any) => {
     const input = document.createElement("app-input");
 
     input.setAttribute("label", args.label);

@@ -1,4 +1,4 @@
-import "./register";
+import "./register-auto";
 
 export default {
   title: "Components/App Counter",
@@ -17,7 +17,7 @@ export default {
     until: 10,
   },
 
-  render: (args) => {
+  render: (args: any) => {
     const counter = document.createElement("app-counter");
     counter.setAttribute("until", String(args.until));
     return counter;
