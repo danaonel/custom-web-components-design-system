@@ -6,7 +6,9 @@ A TypeScript-based Web Components library with React wrapper components, providi
 [![npm version](https://badge.fury.io/js/%40danielaglint%2Fcustom-web-components.svg)](https://www.npmjs.com/package/@danielaglint/custom-web-components)
 [![Storybook](https://img.shields.io/badge/Storybook-Live-ff4785?logo=storybook)](https://danaonel.github.io/custom-web-components-design-system)
 
-> 📚 **[View Interactive Documentation & Examples in Storybook](https://danaonel.github.io/custom-web-components-design-system)**
+> 📚 **[View Interactive Documentation in Storybook](https://danaonel.github.io/custom-web-components-design-system)**
+
+> 📚 **[View Examples of Implementation in HTML application and React application](https://github.com/danaonel/web-components-examples)**
 
 ## ✨ Features
 
