@@ -17,11 +17,29 @@
           ]
         }
       ]
+    },
+    "0181c008": {
+      "value": [
+        {
+          "programming_language": "TypeScript",
+          "fileName": "input.ts",
+          "relativeFilePath": "src/core/input.ts",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            134
+          ]
+        }
+      ]
     }
   },
   "promptMessage": {
     "c2670d0f": {
       "value": "Everything works great now in the react app, except now I get this error: `Uncaught TypeError: Cannot create property 'textContent' on string 'Custom Web Components Email'\n    at HTMLElement.update (@ps_web-components-package_react.js:41:26)\n    at HTMLElement.attributeChangedCallback (@ps_web-components-package_react.js:37:8)\n    at setValueForAttribute (react-dom_client.js:1342:10)\n    at setPropOnCustomElement (react-dom_client.js:10522:103)\n    at updateProperties (react-dom_client.js:10846:"
+    },
+    "6b0d1bc1": {
+      "value": "Analyze the code for this custom web components module and tell me why the react wrapped input component throws this error in the browser when it is installed in a react app: `register-Co-u00OF.js:39 Uncaught TypeError: Cannot create property 'textContent' on string 'Email'\n    at t$1.update (register-Co-u00OF.js:39:14)\n    at t$1.attributeChangedCallback (register-Co-u00OF.js:35:8)\n    at setValueForAttribute (react-dom-client.development.js:1683:16)\n    at setPropOnCustomElement (react-dom-cli"
     }
   },
   "localPrompts": {},
