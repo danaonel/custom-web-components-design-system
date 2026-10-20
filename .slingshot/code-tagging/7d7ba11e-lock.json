@@ -101,204 +101,193 @@
         "encoded": "%5B!%5BStorybook%5D(https://img.shields.io/badge/Storybook-Live-ff4785?logo=storybook)%5D(https://danaonel.github.io/custom-web-components-design-system)",
         "prevChunkIds": []
       },
-      "8": {
+      "12": {
         "chunkId": "2ffe2e",
-        "hash": "b5268b16",
-        "encoded": "%3E%20%F0%9F%93%9A%20**%5BView%20Interactive%20Documentation%20&%20Examples%20in%20Storybook%5D(https://danaonel.github.io/custom-web-components-design-system)**",
+        "hash": "4ed6bf53",
+        "encoded": "##%20%E2%9C%A8%20Features",
         "prevChunkIds": []
       },
-      "10": {
-        "chunkId": "2ffe2e",
-        "hash": "a08ee3d1",
-        "encoded": "##%20%E2%9C%A8%20Features",
+      "19": {
+        "chunkId": "1d5546",
+        "hash": "6b33f64d",
+        "encoded": "-%20%E2%99%BF%20**Accessible**%20-%20Built%20with%20accessibility%20in%20mind%20using%20semantic%20HTML",
+        "prevChunkIds": []
+      },
+      "20": {
+        "chunkId": "1d5546",
+        "hash": "84b7a3f7",
+        "encoded": "-%20%F0%9F%9A%80%20**Lightweight**%20-%20Minimal%20footprint%20with%20efficient%20rendering",
+        "prevChunkIds": []
+      },
+      "21": {
+        "chunkId": "1d5546",
+        "hash": "d430a0dc",
+        "encoded": "-%20%F0%9F%93%9A%20**Interactive%20Documentation**%20-%20Comprehensive%20Storybook%20with%20live%20examples%20and%20playground",
         "prevChunkIds": []
       },
       "23": {
         "chunkId": "1d5546",
-        "hash": "bbed7080",
-        "encoded": "-%20%E2%99%BF%20**Accessible**%20-%20Built%20with%20accessibility%20in%20mind%20using%20semantic%20HTML",
-        "prevChunkIds": []
-      },
-      "24": {
-        "chunkId": "1d5546",
-        "hash": "59ee57ae",
-        "encoded": "-%20%F0%9F%9A%80%20**Lightweight**%20-%20Minimal%20footprint%20with%20efficient%20rendering",
+        "hash": "7ad55b9a",
+        "encoded": "##%20%F0%9F%93%9A%20Documentation",
         "prevChunkIds": []
       },
       "25": {
         "chunkId": "1d5546",
-        "hash": "1887971a",
-        "encoded": "-%20%F0%9F%93%9A%20**Interactive%20Documentation**%20-%20Comprehensive%20Storybook%20with%20live%20examples%20and%20playground",
+        "hash": "a5ac9e5a",
+        "encoded": "**%5BView%20Interactive%20Storybook%20Documentation%20%E2%86%92%5D(https://danaonel.github.io/custom-web-components-design-system)**",
         "prevChunkIds": []
       },
-      "26": {
-        "chunkId": "f679f9",
-        "hash": "8e964ff8",
-        "encoded": "##%20%F0%9F%93%8B%20Table%20of%20Contents",
+      "27": {
+        "chunkId": "1d5546",
+        "hash": "2e8b29af",
+        "encoded": "Explore%20all%20components%20with:",
         "prevChunkIds": []
       },
       "28": {
-        "chunkId": "f679f9",
-        "hash": "8dd006c7",
-        "encoded": "-%20%5BDocumentation%5D(#documentation)",
+        "chunkId": "1d5546",
+        "hash": "ad9be53a",
+        "encoded": "-%20%F0%9F%8E%A8%20**Live%20Examples**%20-%20Interactive%20component%20playground",
         "prevChunkIds": []
       },
       "29": {
-        "chunkId": "f679f9",
-        "hash": "5f307de8",
-        "encoded": "-%20%5BInstallation%5D(#installation)",
+        "chunkId": "1d5546",
+        "hash": "a1fb0abb",
+        "encoded": "-%20%F0%9F%93%96%20**Component%20Stories**%20-%20Real-world%20usage%20scenarios",
         "prevChunkIds": []
       },
       "30": {
-        "chunkId": "f679f9",
-        "hash": "08025137",
-        "encoded": "-%20%5BComponents%5D(#components)",
+        "chunkId": "1d5546",
+        "hash": "a79fe2ca",
+        "encoded": "-%20%F0%9F%8E%9B%EF%B8%8F%20**Controls%20Panel**%20-%20Test%20different%20props%20and%20configurations",
         "prevChunkIds": []
       },
       "31": {
-        "chunkId": "f679f9",
-        "hash": "f6055596",
-        "encoded": "-%20%5BAppInput%5D(#appinput)",
+        "chunkId": "1d5546",
+        "hash": "e474646c",
+        "encoded": "-%20%F0%9F%93%B1%20**Responsive%20Preview**%20-%20See%20components%20on%20different%20screen%20sizes",
         "prevChunkIds": []
       },
       "32": {
-        "chunkId": "f679f9",
-        "hash": "d2019229",
-        "encoded": "-%20%5BAppCounter%5D(#appcounter)",
-        "prevChunkIds": []
-      },
-      "33": {
-        "chunkId": "f679f9",
-        "hash": "553f0c69",
-        "encoded": "-%20%5BUsage%5D(#usage)",
+        "chunkId": "1d5546",
+        "hash": "a2eca2f0",
+        "encoded": "-%20%F0%9F%8E%A8%20**Theme%20Customization**%20-%20Experiment%20with%20styling%20options",
         "prevChunkIds": []
       },
       "34": {
         "chunkId": "f679f9",
-        "hash": "5875d7cf",
-        "encoded": "-%20%5BVanilla%20JavaScript%20/%20HTML%5D(#vanilla-javascript--html)",
-        "prevChunkIds": []
-      },
-      "35": {
-        "chunkId": "f679f9",
-        "hash": "a742b56f",
-        "encoded": "-%20%5BReact%5D(#react)",
+        "hash": "eb8cdde6",
+        "encoded": "##%20%F0%9F%93%8B%20Table%20of%20Contents",
         "prevChunkIds": []
       },
       "36": {
         "chunkId": "f679f9",
-        "hash": "c3de8fc1",
-        "encoded": "-%20%5BAPI%20Reference%5D(#api-reference)",
+        "hash": "d1919372",
+        "encoded": "-%20%5BDocumentation%5D(#documentation)",
         "prevChunkIds": []
       },
       "37": {
         "chunkId": "f679f9",
-        "hash": "b9c39bb5",
-        "encoded": "-%20%5BTypeScript%20Support%5D(#typescript-support)",
+        "hash": "845a2fda",
+        "encoded": "-%20%5BInstallation%5D(#installation)",
         "prevChunkIds": []
       },
       "38": {
         "chunkId": "f679f9",
-        "hash": "20458721",
-        "encoded": "-%20%5BDevelopment%5D(#development)",
+        "hash": "28cb152a",
+        "encoded": "-%20%5BComponents%5D(#components)",
         "prevChunkIds": []
       },
       "39": {
         "chunkId": "f679f9",
-        "hash": "2aaa8fea",
-        "encoded": "-%20%5BBrowser%20Support%5D(#browser-support)",
+        "hash": "76ac633f",
+        "encoded": "-%20%5BAppInput%5D(#appinput)",
         "prevChunkIds": []
       },
       "40": {
         "chunkId": "f679f9",
-        "hash": "085bb43d",
-        "encoded": "-%20%5BLicense%5D(#license)",
+        "hash": "9b38bd0e",
+        "encoded": "-%20%5BAppCounter%5D(#appcounter)",
         "prevChunkIds": []
       },
       "41": {
-        "chunkId": "1d5546",
-        "hash": "82802ca9",
-        "encoded": "##%20%F0%9F%93%9A%20Documentation",
+        "chunkId": "f679f9",
+        "hash": "60d1f9fb",
+        "encoded": "-%20%5BUsage%5D(#usage)",
+        "prevChunkIds": []
+      },
+      "42": {
+        "chunkId": "f679f9",
+        "hash": "5f9ef82a",
+        "encoded": "-%20%5BVanilla%20JavaScript%20/%20HTML%5D(#vanilla-javascript--html)",
         "prevChunkIds": []
       },
       "43": {
-        "chunkId": "1d5546",
-        "hash": "82f96e74",
-        "encoded": "**%5BView%20Interactive%20Storybook%20Documentation%20%E2%86%92%5D(https://danaonel.github.io/custom-web-components-design-system)**",
+        "chunkId": "f679f9",
+        "hash": "005b9d22",
+        "encoded": "-%20%5BReact%5D(#react)",
+        "prevChunkIds": []
+      },
+      "44": {
+        "chunkId": "f679f9",
+        "hash": "db9b89ce",
+        "encoded": "-%20%5BAPI%20Reference%5D(#api-reference)",
         "prevChunkIds": []
       },
       "45": {
-        "chunkId": "1d5546",
-        "hash": "a01c1b14",
-        "encoded": "Explore%20all%20components%20with:",
+        "chunkId": "f679f9",
+        "hash": "dcc11690",
+        "encoded": "-%20%5BTypeScript%20Support%5D(#typescript-support)",
         "prevChunkIds": []
       },
       "46": {
-        "chunkId": "1d5546",
-        "hash": "9e7312bd",
-        "encoded": "-%20%F0%9F%8E%A8%20**Live%20Examples**%20-%20Interactive%20component%20playground",
+        "chunkId": "f679f9",
+        "hash": "96b36a8a",
+        "encoded": "-%20%5BDevelopment%5D(#development)",
         "prevChunkIds": []
       },
       "47": {
-        "chunkId": "1d5546",
-        "hash": "5131741d",
-        "encoded": "-%20%F0%9F%93%96%20**Component%20Stories**%20-%20Real-world%20usage%20scenarios",
+        "chunkId": "f679f9",
+        "hash": "73aab692",
+        "encoded": "-%20%5BBrowser%20Support%5D(#browser-support)",
         "prevChunkIds": []
       },
       "48": {
-        "chunkId": "1d5546",
-        "hash": "6f7f5a9f",
-        "encoded": "-%20%F0%9F%8E%9B%EF%B8%8F%20**Controls%20Panel**%20-%20Test%20different%20props%20and%20configurations",
+        "chunkId": "f679f9",
+        "hash": "66cc6c64",
+        "encoded": "-%20%5BLicense%5D(#license)",
         "prevChunkIds": []
       },
-      "49": {
-        "chunkId": "1d5546",
-        "hash": "309efbc4",
-        "encoded": "-%20%F0%9F%93%B1%20**Responsive%20Preview**%20-%20See%20components%20on%20different%20screen%20sizes",
-        "prevChunkIds": []
-      },
-      "50": {
-        "chunkId": "1d5546",
-        "hash": "4e8ad215",
-        "encoded": "-%20%F0%9F%8E%A8%20**Theme%20Customization**%20-%20Experiment%20with%20styling%20options",
-        "prevChunkIds": []
-      },
-      "52": {
-        "chunkId": "1d5546",
-        "hash": "ba868382",
-        "encoded": "##%20%F0%9F%93%8B%20Table%20of%20Contents",
-        "prevChunkIds": []
-      },
-      "505": {
+      "499": {
         "chunkId": "d7f185",
-        "hash": "ea51de2d",
+        "hash": "0be3023a",
         "encoded": "##%20%F0%9F%94%97%20Links",
         "prevChunkIds": []
       },
-      "507": {
+      "501": {
         "chunkId": "d7f185",
-        "hash": "af4ff981",
+        "hash": "1823e823",
         "encoded": "-%20%5B%F0%9F%93%9A%20Storybook%20Documentation%5D(https://danaonel.github.io/custom-web-components-design-system)%20-%20Interactive%20component%20documentation",
         "prevChunkIds": []
       },
-      "508": {
+      "502": {
         "chunkId": "d7f185",
-        "hash": "68cad37c",
+        "hash": "6eceed35",
         "encoded": "-%20%5BGitHub%20Repository%5D(https://github.com/danaonel/custom-web-components-design-system)",
         "prevChunkIds": []
       },
-      "509": {
+      "503": {
         "chunkId": "d7f185",
-        "hash": "98937abf",
+        "hash": "49091f63",
         "encoded": "-%20%5Bnpm%20Package%5D(https://www.npmjs.com/package/@danielaglint/custom-web-components)",
         "prevChunkIds": []
       },
-      "510": {
+      "504": {
         "chunkId": "d7f185",
-        "hash": "0cce8e24",
+        "hash": "27b83102",
         "encoded": "-%20%5BReport%20Issues%5D(https://github.com/danaonel/custom-web-components-design-system/issues)",
         "prevChunkIds": []
       }
-    }
+    },
+    "_prevLineCount": 513
   }
 }
