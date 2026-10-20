@@ -1,5 +1,11 @@
 # @danielaglint/custom-web-components
 
+## 1.1.1
+
+### Patch Changes
+
+- [#9](https://github.com/danaonel/custom-web-components-design-system/pull/9) [`d7daa13`](https://github.com/danaonel/custom-web-components-design-system/commit/d7daa135f66779470c24d8a3f82eea756090892b) Thanks [@danaonel](https://github.com/danaonel)! - Fix input textContent error
+
 ## 1.1.0
 
 ### Minor Changes
